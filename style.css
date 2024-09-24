@@ -74,3 +74,8 @@ button{
   background-color: #1B244A;
   color: #fff;
 }
+
+.horizontal-line{
+  margin:5px;
+  border-bottom: 1px solid #F94F6D;;
+}
